@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedRing1979&margin-w=0)](https://github.com/sisosyunya/github-profile-trophy)
 
