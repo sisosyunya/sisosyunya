@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/sisosyunya/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisosyunya)](https://github.com/sisosyunya/github-readme-stats)
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedRing1979&margin-w=0)](https://github.com/sisosyunya/github-profile-trophy)
 
