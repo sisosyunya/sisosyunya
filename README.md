@@ -2,6 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedRing1979&margin-w=0)](https://github.com/sisosyunya/github-profile-trophy)
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sisosyunya&theme=dracula
+
 
 <!-- https://komarev.com/ghpvc/?username=sisosyunya
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sisosyunbya&theme=dracula -->
