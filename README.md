@@ -2,8 +2,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedRing1979&margin-w=0)](https://github.com/sisosyunya/github-profile-trophy)
 
-https://komarev.com/ghpvc/?username=sisosyunya
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sisosyunbya&theme=dracula
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- https://komarev.com/ghpvc/?username=sisosyunya
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sisosyunbya&theme=dracula -->
 
 <!-- **sisosyunya/sisosyunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
