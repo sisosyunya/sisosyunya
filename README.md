@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisosyunya&count_private=true&theme=tokyonight)](https://github.com/sisosyunya/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisosyunya)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedRing1979&margin-w=0)](https://github.com/sisosyunya/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=sisosyunya)
