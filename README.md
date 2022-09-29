@@ -6,7 +6,7 @@
 <h1>Products</h1>
 <h2>Ritsbook</h2>
 <p>ur</p>
-<a link="https://ritsbook.netlify.app/landing"></a>
+<a href="https://ritsbook.netlify.app"></a>
 <!-- トロフィー -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RedRing1979&margin-w=0)](https://github.com/sisosyunya/github-profile-trophy) -->
 
