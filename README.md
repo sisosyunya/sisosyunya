@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisosyunya" alt="sisosyunya" /></a> </p>
 
-- 🔭 I’m currently working on **Ritsbook for NativeApp**
+- 🔭 I’m currently working on **Flutter engineer and Ritsbook for NativeApp**
 
 - 🌱 I’m currently learning **Flutter**
 
