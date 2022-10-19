@@ -17,14 +17,14 @@ Here are some ideas to get you started:
  
  
 <!--  github generator -->
-<h1 align="center">😀I'm Syunya</h1>
+<h1 align="center">👋I'm Syunya</h1>
 <h3 align="center">I'm a mobile and frontend developer from Japan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisosyunya&theme=gruvbox&row=1" alt="sisosyunya" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter engineer and Ritsbook for NativeApp**
 
-- 🌱 I’m currently learning **Flutter　and　TypeScript**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://ritsbook.netlify.app/](https://ritsbook.netlify.app/)
 
