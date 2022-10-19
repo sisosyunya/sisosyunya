@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **syunyasisotto@gmail.com**
 
-- 📝 I regularly write articles on [https://note.com/syunya_fujisawa/feed](https://note.com/syunya_fujisawa/feed)
+- 📝 I regularly write articles on [https://note.com/syunya_fujisawa](https://note.com/syunya_fujisawa)
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/syunyadesu/**
 
