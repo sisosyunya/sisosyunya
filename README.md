@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Flutter engineer and Ritsbook for NativeApp**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter　**
 
 - 👨‍💻 All of my projects are available at [https://ritsbook.netlify.app/](https://ritsbook.netlify.app/)
 
