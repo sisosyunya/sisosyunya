@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://ritsbook.netlify.app/]　(https://ritsbook.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ritsbook.netlify.app/](https://ritsbook.netlify.app/)
 
--🍏[https://fukuokaideal.herokuapp.com/](https://fukuokaideal.herokuapp.com/)
+- 🍏 [https://fukuokaideal.herokuapp.com/](https://fukuokaideal.herokuapp.com/)
 
 - 📫 How to reach me **syunyasisotto@gmail.com**
 
