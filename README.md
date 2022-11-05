@@ -22,19 +22,20 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisosyunya&theme=gruvbox&row=1" alt="sisosyunya" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter engineer and Ritsbook for NativeApp**
+<p>I'm a university student. I will do my best.</p>
+<!-- 大学生です。頑張ります。 -->
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m a funny **Flutter** engineer
 
-- 👨‍💻 All of my projects are available at [https://ritsbook.netlify.app/](https://ritsbook.netlify.app/)
+- 🔭 I’m developing **Ritsbook for NativeApp** with **Flutter**
 
-- 🍏 [https://fukuokaideal.herokuapp.com/](https://fukuokaideal.herokuapp.com/)
+- 👨‍💻 I developed [RitsBook](https://ritsbook.netlify.app/)
 
-- 📫 How to reach me **syunyasisotto@gmail.com**
+- 🍏 My memorable first product is [ideal](https://fukuokaideal.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://note.com/syunya_fujisawa](https://note.com/syunya_fujisawa)
+- 📫 Contact me at **syunyasisotto@gmail.com**
 
-- 📄 Know about my experiences **https://www.linkedin.com/in/syunyadesu/**
+- 📝 I post articles on [note](https://note.com/syunya_fujisawa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
