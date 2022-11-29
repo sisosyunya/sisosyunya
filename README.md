@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://ritsbook.netlify.app/](https://ritsbook.netlify.app/)
 
-- 🍏 [https://fukuokaideal.herokuapp.com/](https://idealapp.vercel.app/
+- 🍏 [https://idealapp.vercel.app/](https://idealapp.vercel.app/
 )
 
 - 📫 How to reach me **syunyasisotto@gmail.com**
