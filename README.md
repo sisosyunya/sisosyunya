@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Flutter**
 
+- 👀 A member of [watnow](http://www.watnow.jp/)
+
 - 👨‍💻 All of my projects are available at [https://ritsbook.netlify.app/](https://ritsbook.netlify.app/)
 
 - 🍏 [https://idealapp.vercel.app/](https://idealapp.vercel.app/
@@ -36,6 +38,8 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [https://note.com/syunya_fujisawa](https://note.com/syunya_fujisawa)
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/syunyadesu/**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
