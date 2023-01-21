@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisosyunya&theme=gruvbox&row=1" alt="sisosyunya" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter engineer in [timber](https://rootbook.timbers.jp/)**
+- 🔭 I’m currently working on **Flutter engineer in [Timbers](https://rootbook.timbers.jp/)**
 
-- 🌱 I’m currently learning **Flutter**
+<!-- - 🌱 I’m currently learning **Flutter** -->
+
+- 🌱  I'm currently developing a Ritsbook on Flutter!
 
 - 👀 A member of [watnow](http://www.watnow.jp/)
 
