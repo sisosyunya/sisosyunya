@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👀 A Leader of [watnow](http://www.watnow.jp/)
 
-- 🔭 I’m currently working on **Flutter engineer in [Timbers](https://rootbook.timbers.jp/)**
+- 🔭 I’m currently working on **Flutter engineer in [Timbers](https://timbers.jp/)**
 
 - 🌱  I'm currently developing a Ritsbook on Flutter!
 
