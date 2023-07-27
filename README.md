@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 👀 A Leader of [watnow](http://www.watnow.jp/)
 
-- 🔭 I’m currently working on **Flutter engineer in [Timbers](https://timbers.jp/)**
-
 - 🌱  I'm currently developing a Ritsbook on Flutter!
 
 - 👨‍💻 All of my projects are available at [https://ritsbook.netlify.app/](https://ritsbook.netlify.app/)
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/syunyadesuyoros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syunyadesuyoros" height="30" width="40" /></a>
+<a href="https://twitter.com/syunya710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syunyadesuyoros" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syunyadesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syunyadesu" height="30" width="40" /></a>
 </p>
 
