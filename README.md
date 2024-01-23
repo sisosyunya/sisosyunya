@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/syunyadesu/**
 
+- Watedly account https://www.wantedly.com/id/syunsyun
 
 
 <h3 align="left">Connect with me:</h3>
