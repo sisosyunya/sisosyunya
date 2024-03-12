@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <!-- - 🌱 I’m currently learning **Flutter** -->
 
-- 👀 A Leader of [watnow](http://www.watnow.jp/)
 
 - 🌱  I'm currently developing a Ritsbook on Flutter!
 
