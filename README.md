@@ -22,11 +22,6 @@ Here are some ideas to get you started:
 
 - 🌱  I'm currently developing a Ritsbook on Flutter!
 
-- 👨‍💻 All of my projects are available at [https://ritsbook.netlify.app/](https://ritsbook.netlify.app/)
-
-- 🍏 [https://idealapp.vercel.app/](https://idealapp.vercel.app/
-)
-
 - 📫 How to reach me **syunyasisotto@gmail.com**
 
 - 📝 I regularly write articles on [https://note.com/syunya_fujisawa](https://note.com/syunya_fujisawa)
