@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning **Flutter** -->
 
 
-- 🌱  I'm currently developing a Ritsbook on Flutter!
+- 🌱  I'm the CTO of [AilaB](https://www.ailab-corp.com/)
 
 - 📫 How to reach me **syunyasisotto@gmail.com**
 
